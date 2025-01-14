@@ -13,7 +13,7 @@ class SignalScore:
     def enhanced_ema_ribbon_score(self, ema_values, price):
         """
         Geliştirilmiş EMA Ribbon skor hesaplaması
-        
+        sıralama önemli
         Args:
             ema_values (list): [EMA5, EMA8, EMA13, EMA20, EMA50, EMA100, EMA200]
             price (float): Mevcut fiyat
